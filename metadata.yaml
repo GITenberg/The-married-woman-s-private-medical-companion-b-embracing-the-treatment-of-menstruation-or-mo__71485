@@ -1,5 +1,8 @@
 _repo: The-married-woman-s-private-medical-companion-b-embracing-the-treatment-of-menstruation-or-mo__71485
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71485-h/images/cover.jpg
 creator:
   author:
     agent_name: Mauriceau, A. M.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '56260'
     url: http://www.gutenberg.org/2009/agents/56260
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71485#The-married-woman-s-private-medical-companion-b-embracing-the-treatment-of-menstruation-or-mo_
 gutenberg_issued: '2023-08-25'
 identifiers:
   gutenberg: '71485'
